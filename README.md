@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX-005C84?style=for-the-badge&logo=onnx&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg?style=for-the-badge)
 
 **PII-Shield** is a privacy-first, 100% client-side web application that detects and masks Personally Identifiable Information (PII) directly in the browser before sending user prompts and documents to Large Language Models (e.g., Gemini, OpenAI).
 
@@ -42,3 +42,12 @@ flowchart TD
     ShieldEditor -->|"Send Masked Prompt"| LLMService["LLM API Service"]
     LLMService -->|"AI Response with Tags"| ShieldEditor
     ShieldEditor -->|"Demask via Dictionary"| DemaskedView["Restored Original Text"]
+
+
+---
+
+## License
+
+PII-Shield is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See `LICENSE`.
+
+Contributions are accepted under the same license. Modified covered versions must preserve the AGPL-3.0 terms, including the source-availability obligations that apply to network interaction.
