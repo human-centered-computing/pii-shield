@@ -1,5 +1,7 @@
 # 🛡️ PII-Shield: Client-Side PII Masking & AI Gateway
 
+[English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -43,6 +45,7 @@ flowchart TD
     LLMService -->|"AI Response with Tags"| ShieldEditor
     ShieldEditor -->|"Demask via Dictionary"| DemaskedView["Restored Original Text"]
 
+```
 
 ---
 
