@@ -1,5 +1,7 @@
 # 🛡️ PII-Shield: إخفاء بيانات الهوية على جانب العميل وبوابة الذكاء الاصطناعي
 
+> حالة الترجمة: مسودة بمساعدة الذكاء الاصطناعي، بانتظار مراجعة لغوية بشرية.
+
 [English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

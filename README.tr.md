@@ -1,5 +1,7 @@
 # 🛡️ PII-Shield: İstemci tarafında kişisel bilgi maskeleme ve yapay zekâ ağ geçidi
 
+> Çeviri durumu: Yapay zekâ destekli taslak; insan dil incelemesi bekliyor.
+
 [English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
